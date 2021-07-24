@@ -1,4 +1,4 @@
-#!/home/javonne/PycharmProjects/lightsGUI/venv/bin/python3
+#!"which python"
 
 from tkinter import *
 import light_controller

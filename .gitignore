@@ -1,0 +1,7 @@
+HIDDEN.py
+ss.py
+venv
+dist
+build
+.idea
+__pycache__/
